@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mico Rayen, a fresher.
-- 🌱 I’m currently learning Git & JavaScript
+- 🌱 I’m currently learning Git, CSS & JavaScript
 - 📫 You can reach me on micorayenaniga@gmail.com
 
 <!---
