@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mico Rayen, a fresher.
 - 🌱 I’m currently searching job for an an entry-level software-development position
-- 🌱 I’m currently learning Git, CSS & JavaScript
+- 🌱 I’m currently learning Git, HTML & CSS
 - 📫 You can reach me on micorayenaniga@gmail.com
 
 <!---
