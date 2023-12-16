@@ -1,7 +1,7 @@
 ### Hi there 👋, I’m Mico Rayen, an Aspiring Software Development.
 
 - 🔭 Currently searching job for an an entry-level software-development position
-- 🌱 Currently learning Node(NPM, Express, Templating) from "Udemy's Web Dev Bootcamp 2023 by Colt Steele".
+- 🌱 Currently learning MongoDB(CRUD) from "Udemy's Web Dev Bootcamp 2023 by Colt Steele".
 - 📫 You can look at my portfolio on https://micorayen.github.io/
 - 📫 You can reach me on micorayenaniga@gmail.com
 - 👩🏻‍💻 Techologies: Visual Basic, C#, Java, HTML, CSS, Bootstrap, MySQL, Crystal Report, Git & JavaScript, Node.
