@@ -1,4 +1,4 @@
-### Hi there 👋, I’m Mico Rayen, an Aspiring Software Development.
+### Hi there 👋, I’m Mico Rayen, an Aspiring Software Developer.
 
 - 🔭 Currently searching job for an an entry-level software-development position
 - 🌱 Currently learning Node.js (with Mongoose, Express, NPM, EJS) from "Udemy's Web Dev Bootcamp 2023 by Colt Steele".
