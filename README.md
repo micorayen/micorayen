@@ -2,9 +2,9 @@
 
 - 🔭 Currently searching job for an an entry-level software-development position
 - 🌱 Currently learning [Cookies, Flash & Auth] from "Udemy's Web Dev Bootcamp 2023 by Colt Steele".
-- 📫 You can look at my portfolio on https://micorayen.github.io/
+- 📫 You can look at my portfolio on https://micorayen.github.io/mar
 - 📫 You can reach me on micorayenaniga@gmail.com
-- 👩🏻‍💻 Techologies: Visual Basic, C#, Java, HTML, CSS, Bootstrap, MySQL, Crystal Report, Git & JavaScript, Node.
+- 👩🏻‍💻 Techologies: Visual Basic, C#, Java, HTML, CSS, Bootstrap, MySQL, Crystal Report, Git & JavaScript, Node.js (w/ Mongoose, Express, EJS).
 
 
 
