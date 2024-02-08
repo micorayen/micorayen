@@ -3,7 +3,7 @@
 - 🔭 Currently searching job for an an entry-level software-development position
 - 🌱 Currently learning from "Udemy's Web Dev Bootcamp 2023 by Colt Steele":
   - Actively Learning: Node.js (w/ Mongoose, Express, EJS)
-  - Current Focus: Cookies, Session Flash, Auth
+  - Current Focus: Flash, Auth
   - Building: YelpCamp Campground (Final Project in my Course)
 
 - 📫 You can look at my portfolio on https://micorayen.github.io/mar
